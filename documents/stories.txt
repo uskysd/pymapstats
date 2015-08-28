@@ -1,0 +1,44 @@
+Stories of the application
+
+
+------------------------------------------------------------------------
+1. Data storage
+- For who?
+    Those who manages the map data
+- Description
+    Multiple users can store map data in the same place, and then all
+    the users will become accessible to all map data.
+- What is the benefit
+    Allowing users to share all the data, which enhances efficiency
+    of their data collection and analysis
+- Acceptance criteria
+    -
+------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------
+2. Contour map visualization
+- For who?
+    Those who manages the map data
+- Description
+    User can see contour map figures of selected map data. Also, user can
+    change the scale of the figures.
+- What is the benefit
+    Enabling users to understand the map data intuitively.
+- Acceptance criteria
+    -
+    -
+    -
+------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------
+XX. Title
+- For who?
+- Description
+- What is the benefit
+- Acceptance criteria
+    -
+    -
+    -
+------------------------------------------------------------------------
